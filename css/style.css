@@ -1,0 +1,69 @@
+
+  /**login**/
+  .logback .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-height: max-content;
+    max-width: 400px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+  }
+.containera{
+    display:inline-block;
+    justify-content: center;
+    align-items: center;
+    max-height: max-content;
+    width:600px;
+    margin-left: 25%;
+  }
+  .regback{
+    background:rgba(0,0,0,0.6) url('../assets/regback.jpg');
+    background-blend-mode: darken;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+  .logback{
+    background:rgba(0,0,0,0.6) url('../assets/loggback.jpg');
+    background-blend-mode: darken;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+  .navbar-brand img {
+    max-height: 40px;
+  }
+  
+  .navbar-toggler-icon {
+    background-image: url('https://cdn4.iconfinder.com/data/icons/wirecons-free-vector-icons/32/menu-alt-512.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 20px;
+    height: 20px;
+  }
+  body{
+    background:rgba(0,0,0,0.6) url('../assets/mainbackk.jpg');
+    background-blend-mode: darken;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .containerb{
+    height: 300px;
+    width: 50%;
+    color: white;
+    background-color:#476072;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    margin-bottom:10% ;
+  }
+  .form-group img{
+      max-height: 20px;
+  }
+  
